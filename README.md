@@ -10,7 +10,7 @@ crowdsourcing problems simultaneously.
 
 ## Installation and Getting Started
 
-123CrowdOS are available on Maven Central.
+CrowdOS are available on Maven Central.
 
 If you use Maven or Gradle, add a dependency with following coordinates to your build script:
 ```xml
