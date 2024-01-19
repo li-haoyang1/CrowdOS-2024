@@ -4,7 +4,7 @@
  
  ![Logo](https://raw.githubusercontent.com/li-haoyang1/CrowdOS/master/src/site/resources/images/logo.jpg)
 
-124563CrowdOS is a ubiquitous operating system for [Crowdsoucring](https://en.wikipedia.org/wiki/Crowdsourcing) and
+CrowdOS is a ubiquitous operating system for [Crowdsoucring](https://en.wikipedia.org/wiki/Crowdsourcing) and
 [Mobile Crowdsensing](https://en.wikipedia.org/wiki/Crowdsensing), which can deal with multiple types of 
 crowdsourcing problems simultaneously.
 
